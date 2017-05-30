@@ -1,0 +1,24 @@
+* {
+	font-family: 'Lato', sans-serif;
+	box-sizing: border-box;	
+}
+
+
+.my-header {
+	text-transform: uppercase;
+}
+
+.logo {
+	width: 10%;
+	height: 10%;
+	margin-top: 4%;
+}
+
+.title {
+	font-size: -webkit-xxx-large;
+	font-weight: 300;
+}
+
+.designation {
+	font-weight: bold;
+}
