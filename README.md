@@ -1,4 +1,4 @@
-# FSND-P1-PortfolioWebsite
+# FSND-P2-PortfolioWebsite
 
 Portfolio Website: This project presents a responsive website that displays images, descriptions and links to my featured work and projects.
 
